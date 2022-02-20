@@ -4,4 +4,4 @@ import "controllers"
 import "bootstrap/dist/js/bootstrap.bundle"
 
 
-import "./src/application.css"; 
+import "../src/application.css"; 
